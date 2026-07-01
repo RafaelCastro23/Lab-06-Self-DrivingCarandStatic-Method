@@ -4,9 +4,9 @@
 // COLLABORATORS:
 // DATE:  6/25/26
 
-public class Main
+public class Main // this is the main header
 {
-	public static void main(String[] args)
+	public static void main(String[] args) // this is the main body with no return statment. Local Variables were used.
 	{
 		String questionNum1 = "Should a self-driving car prioritize the safety of its passengers or pedestrians?";
 		String questionNum2 = "What factors should the car's algorithms consider when making such determinations?";
@@ -27,10 +27,10 @@ public class Main
 	// Part 1: Creating method definition
 	//method header Main
 	//method body Calling Static with Local Variables
-	//return statement
+	//return statement but below is the output
 	// System.out.println("My thoughts on the article are:");
 	//	System.out.printf("%s%n%s%n" ,questionNum1, answerNum1);
 	//	System.out.printf("%s%n%s%n" ,questionNum2, answerNum2);
 	//	System.out.printf("%s%n%s%n" ,questionNum3, answerNum3);
-	//method identifier
-}
+	//method identifiers:
+	// questionNum1, answerNum1, questionNum2, answerNum2, questionNum3, answerNum3);}
